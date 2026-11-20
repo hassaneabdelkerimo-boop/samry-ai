@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix SAMRY AI – Intelligence Artificielle",
+  "description": "Assistant personnel intelligent propulsé par Gemini. Q\u0026A, génération d\u0027images, analyse de documents et photos, aide aux études, mathématiques, rédaction et informatique. Créateur : Oumar Hassane Abdelkerim.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
